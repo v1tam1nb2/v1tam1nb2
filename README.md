@@ -6,10 +6,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v1tam1nb2&theme=dracula)
 
 <p>
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/v1tam1nb2">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=v1tam1nb2&count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/miwashutaro0611">
+<a href="https://github.com/v1tam1nb2">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tam1nb2&layout=compact&theme=dracula" />
 </a>
 </p>
