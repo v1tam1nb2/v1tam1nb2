@@ -1,16 +1,15 @@
-### Hi there 👋
+[![v1tam1nb2](https://komarev.com/ghpvc/?username=v1tam1nb2)](https://github.com/v1tam1nb2/v1tam1nb2/)
+[![](https://img.shields.io/github/followers/v1tam1nb2?label=follow&logo=github&style=flat)](https://github.com/v1tam1n)
+[![](https://qiita-badge.apiapi.app/s/v1tam1n/posts.svg)](http://qiita.com/v1tam1n)
+[![](https://qiita-badge.apiapi.app/s/v1tam1n/contributions.svg)](http://qiita.com/v1tam1n)
 
-<!--
-**v1tam1nb2/v1tam1nb2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v1tam1nb2&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://github.com/miwashutaro0611">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=v1tam1nb2&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/miwashutaro0611">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tam1nb2&layout=compact&theme=dracula" />
+</a>
+</p>
