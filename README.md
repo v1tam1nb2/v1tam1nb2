@@ -13,3 +13,6 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1tam1nb2&layout=compact&theme=dracula" />
 </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=v1tam1nb2&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
